@@ -1,0 +1,14 @@
+{
+  "name": "write-numbers-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "sass style.scss style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.25.0"
+  }
+}
